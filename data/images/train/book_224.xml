@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>book_224.jpg</filename>
+	<path>C:\Users\i\Desktop\windows_v1.8.0_수빈\data\book_224.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>348</xmin>
+			<ymin>507</ymin>
+			<xmax>891</xmax>
+			<ymax>881</ymax>
+		</bndbox>
+	</object>
+</annotation>
